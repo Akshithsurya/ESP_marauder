@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7352C,100:00979D&height=200&section=header&text=ESP_Penetrator&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ESP32%20%2F%20ESP8266%20Security%20Testing%20Suite&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E7352C&center=true&vCenter=true&width=600&lines=Recon+%7C+Deauth+%7C+Handshake+Capture;Evil+Portal+%7C+PMKID+%7C+Beacon+Flood;Educational+%26+Authorized-Use+Only" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:E7352C,100:00979D&height=90&section=header&text=Recon%20%7C%20Deauth%20%7C%20Handshake%20Capture%20%7C%20Evil%20Portal&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="600"/>
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-black?style=for-the-badge&logo=espressif&logoColor=white)
